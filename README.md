@@ -1,5 +1,13 @@
 ### Hi there, nice to meet you 👋
 
+<p>About me:<p/>
+<p>🏫 Upenn System Engineering Class of 2022<p/> 
+<p>🔭 I’m currently working on something cool ✨ <br />
+  <ul><li><strong>A Satellite Trajectory Visualization Dashboard</strong>! (Using React and D3)</li></ul>
+    
+<p/>
+<p>💬 How to <br />
+<p>A portal to my Linkedin Page <a href="www.linkedin.com/in/luzhang903">link</a>.</p>
 
 <!--
 **la-vie-de-chat/la-vie-de-chat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
