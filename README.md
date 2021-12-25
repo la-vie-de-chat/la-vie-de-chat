@@ -1,13 +1,19 @@
 ### Hi there, nice to meet you 👋
-
-<p>About me:<p/>
+<p><img alt="Image" title="icon" src="Icon-pictures.png" /></p>
+<p>My name is Lu Zhang. You're welcome to call me Cathy. I'm an asipring software engineering earning my master degree @ UPenn. <p/>
+<p><strong>About me:</strong><p/>
 <p>🏫 Upenn System Engineering Class of 2022<p/> 
 <p>🔭 I’m currently working on something cool ✨ <br />
-  <ul><li><strong>A Satellite Trajectory Visualization Dashboard</strong>! (Using React and D3)</li></ul>
+  <ul><li>A Personalized Twitch Resources Recommendation Engine! (Full-stack)</li></ul>
+  <ul><li>A Satellite Trajectory Visualization Dashboard! (Frontend)</li></ul>
+  <ul><li>A Cloud and React based Social Network! (Full-stack)</li></ul>
+  <ul><li>A Tinder-like News Recommendation App! (Android)</li></ul>
     
 <p/>
-<p>💬 How to <br />
-<p>A portal to my Linkedin Page <a href="www.linkedin.com/in/luzhang903">link</a>.</p>
+<p><strong>Languages & Tools:</strong><br />
+  Java, Python, SQL, JavaScript, HTML, CSS, Spring Boot, Spring MVC, React, Node, Express, Bootstrap, Flask, RESTful API, Flin
+
+<p>Linkedin Page <a href="www.linkedin.com/in/luzhang903">link</a>.</p>
 
 <!--
 **la-vie-de-chat/la-vie-de-chat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
