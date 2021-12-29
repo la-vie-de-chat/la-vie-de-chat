@@ -24,7 +24,7 @@
 
 Previous Blog <a href="https://cuijingnansimona.medium.com/how-hiv-population-distribution-and-gender-differences-affect-our-lives-14cadcae61c5">link</a> 
 <br />
-Linkedin Page <a href="www.linkedin.com/in/luzhang903">link</a>.
+Linkedin Page <a href="linkedin.com/in/zhang547">link</a>.
 
 
 
