@@ -22,9 +22,9 @@
 <br />
 ![](https://img.shields.io/badge/Web/Mobil_Development-Tomcat_/_Java_Servlet_/_Spring_Boot_/_Spring_MVC_/_React_/_Maven_/_Spark_/_RESTful_APIs_/_Ant_/_Elastic_Search-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F5CD50)
 
-Previous Blog <a href="https://cuijingnansimona.medium.com/how-hiv-population-distribution-and-gender-differences-affect-our-lives-14cadcae61c5" target="_blank">link</a> 
+Previous Blog <a target="_blank" href="https://cuijingnansimona.medium.com/how-hiv-population-distribution-and-gender-differences-affect-our-lives-14cadcae61c5">link</a> 
 <br />
-Linkedin Page <a href="https://www.linkedin.com/in/zhang547/" target="_self">link</a>.
+Linkedin Page <a href="https://www.linkedin.com/in/zhang547/">link</a>.
 
 
 
