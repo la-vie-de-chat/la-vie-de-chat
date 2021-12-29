@@ -3,12 +3,13 @@
 
 <p>My name is Lu Zhang. (Welcome to call me Cathy) I'm an asipring software engineering earning my master degree @ UPenn. <p/>
 <p><strong>About me:</strong><p/>
-<p>🎓 Upenn System Engineering Class of 2022<p/> 
-<p>🔭 I’m currently working on something cool ✨ <br />
-  <ul><li>A Personalized Twitch Resources Recommendation Engine! (Full-stack)</li></ul>
-  <ul><li>A Cloud and React based Social Network! (Full-stack)</li></ul>
-<p/>
+🌱 Grew up in China, earned my Bachelor Degree at Indiana University<br />
+🎓 Currently enrolled in Upenn System Engineering Class of 2022<br />
+🔭 I’m currently working on something cool ✨  ✨ <br />
+<li>A Personalized Twitch Resources Recommendation Engine! (Full-stack)</li>
+<li>A Cloud and React based Social Network! (Full-stack)</li>
 
+<br />
 <p><strong>Skills:</strong></p>
 
 <p> </p>
@@ -21,8 +22,9 @@
 <br />
 ![](https://img.shields.io/badge/Web/Mobil_Development-Tomcat_/_Java_Servlet_/_Spring_Boot_/_Spring_MVC_/_React_/_Maven_/_Spark_/_RESTful_APIs_/_Ant_/_Elastic_Search-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F5CD50)
 
-<p>Previous Blog <a href="https://cuijingnansimona.medium.com/how-hiv-population-distribution-and-gender-differences-affect-our-lives-14cadcae61c5">link</a></p>
-<p>Linkedin Page <a href="www.linkedin.com/in/luzhang903">link</a>.</p>
+Previous Blog <a href="https://cuijingnansimona.medium.com/how-hiv-population-distribution-and-gender-differences-affect-our-lives-14cadcae61c5">link</a> 
+<br />
+Linkedin Page <a href="www.linkedin.com/in/luzhang903">link</a>.
 
 
 
