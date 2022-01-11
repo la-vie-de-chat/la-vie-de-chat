@@ -1,32 +1,26 @@
-### Hello ! 🤗
-<img width="907" alt="Screen Shot 2021-12-24 at 9 12 21 PM" src="https://user-images.githubusercontent.com/70874534/147375942-0a80a0af-42c1-4723-9800-539e96c422e6.png">
+#### Hello ! 🤗
+My name is Lu Zhang. I'm an asipring software engineering earning my master degree @ UPenn.
 
-<p>My name is Lu Zhang. (Welcome to call me Cathy) I'm an asipring software engineering earning my master degree @ UPenn. <p/>
-<p><strong>About me:</strong><p/>
-🌱 Grew up in China, earned my Bachelor Degree at Indiana University<br />
-🎓 Currently enrolled in Upenn System Engineering Class of 2022<br />
-🔭 I’m currently working on something cool ✨  ✨ <br />
-<li>A Personalized Twitch Resources Recommendation Engine! (Full-stack)</li>
-<li>A Cloud and React based Social Network! (Full-stack)</li>
+<a href="github.com/la-vie-de-chat">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-vie-de-chat&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats" alt="Cathy's Top Langs" />
+</a>
 
-<br />
-<p><strong>Skills:</strong></p>
+[![Cathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=la-vie-de-chat)](https://github.com/anuraghazra/github-readme-stats)
 
-<p> </p>
+**About me:**
 
-![](https://img.shields.io/badge/Languages-Java_/_Python_/_JavaScript_/_SQL_/_HTML_/_CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-<br />
-![](https://img.shields.io/badge/Developer_Tools-IntelliJ_IDEA_/_Eclipse_/_Pycharm_/_Git_/_Postman-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-<br />
-![](https://img.shields.io/badge/Database_and_Cloud-MySQL_/_AWS_EC2_/_Google_Cloud-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9D5BBD)
-<br />
-![](https://img.shields.io/badge/Web/Mobil_Development-Tomcat_/_Java_Servlet_/_Spring_Boot_/_Spring_MVC_/_React_/_Maven_/_Spark_/_RESTful_APIs_/_Ant_/_Elastic_Search-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F5CD50)
-
-<a target="_blank" href="https://cuijingnansimona.medium.com/how-hiv-population-distribution-and-gender-differences-affect-our-lives-14cadcae61c5">Previous Blog</a> 
-<br />
-<a href="https://www.linkedin.com/in/zhang547/">Linkedin Page</a>.
+* 🌱 Grew up in China, earned my Bachelor Degree at Indiana University
+* 🎓 Currently enrolled in Upenn System Engineering Class of 2022
+* 🔭 I’m currently working on something cool ✨  ✨ <br />
+    <ul><li>A Personalized Twitch Resources Recommendation Engine! (Full-stack)</li></ul>
+    <ul><li>A Cloud and React based Social Network! (Full-stack)</li></ul>
+* 📚 Course Work: Database, Programming Language, Big Data Analytics
 
 
+Previous Blog<a target="_blank" href="https://cuijingnansimona.medium.com/how-hiv-population-distribution-and-gender-differences-affect-our-lives-14cadcae61c5">→</a> <br />
+LinkedIn Page<a href="https://www.linkedin.com/in/zhang547/">→</a>.
 
-<!--
-**la-vie-de-chat/la-vie-de-chat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Languages & Tools:**
+
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Boot-4DB33D?style=flat&logo=spring&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Elasticsearch-4285F4?style=flat&logo=elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/-Spark-eed718?style=flat&logo=apache-spark&logoColor=ffffff"> <img src="http://img.shields.io/badge/-AWS-F89820?style=flat&logo=amazon&logoColor=white"> <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> <img src="http://img.shields.io/badge/-Spring-430098?style=flat&logo=spring&logoColor=white"> <img src="http://img.shields.io/badge/-Oracle-F1502F?style=flat&logo=oracle&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Linux-4DB33D?style=flat&logo=linux&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Maven-430098?style=flat&logo=apache-maven&logoColor=white"> <img src="https://img.shields.io/badge/-Ant-659ad2?style=flat&logo=ant-design&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Tomcat-007ACC?style=flat&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/-Hibernate-cc6699?style=flat&logo=hibernate&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
