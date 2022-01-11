@@ -2,10 +2,15 @@
 My name is Lu Zhang. I'm an asipring software engineering earning my master degree @ UPenn.
 
 <a href="github.com/la-vie-de-chat">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-vie-de-chat&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats" alt="Cathy's Top Langs" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=la-vie-de-chat&theme=great-gatsby&showicons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" alt="Cathy's Top Langs" />
 </a>
 
-[![Cathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=la-vie-de-chat)](https://github.com/anuraghazra/github-readme-stats)
+<a href="github.com/la-vie-de-chat">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-vie-de-chat&theme=great-gatsby&showicons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats" alt="Cathy's Top Langs" />
+</a>
+
+
+
 
 **About me:**
 
