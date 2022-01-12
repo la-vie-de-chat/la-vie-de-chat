@@ -2,7 +2,7 @@
 My name is Lu Zhang. Welcome!
 
 <a href="github.com/la-vie-de-chat">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=la-vie-de-chat&theme=great-gatsby&showicons=true&count_private=true)](https://github.com/la-vie-de-chat/github-readme-stats" alt="Cathy's Top Langs" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=la-vie-de-chat&theme=great-gatsby&showicons=true)](https://github.com/la-vie-de-chat/github-readme-stats" alt="Cathy's Top Langs" />
 </a>
 
 <a href="github.com/la-vie-de-chat">
