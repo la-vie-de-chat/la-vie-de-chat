@@ -16,12 +16,10 @@ My name is Lu Zhang. Welcome!
 
 **About me:**
 
-* 🌱 Grew up in China, earned my Bachelor Degree at Indiana University
-* 🎓 Currently enrolled in Upenn System Engineering Class of 2022
-* 🔭 I’m currently working on something cool ✨  ✨ <br />
-    <ul><li>A Personalized Twitch Resources Recommendation Engine! (Full-stack)</li></ul>
-    <ul><li>A Cloud and React based Social Network! (Full-stack)</li></ul>
-* 📚 Course Work: Database, Programming Language, Big Data Analytics
+* 🌱 Grew up in China, earned my Bachelor Degree at Indiana University of Bloomington
+* 🎓 Recent Graduate from University of Pennsylvania | System Engineering | Class of 2022
+* 🔭 Ex-Amazon Intern ✨  ✨ <br />
+* 📚 Course Work: Database, Programming Language, Data Structure, Big Data Analytics
 
 
 Previous Blog<a target="_blank" href="https://cuijingnansimona.medium.com/how-hiv-population-distribution-and-gender-differences-affect-our-lives-14cadcae61c5">→</a> <br />
