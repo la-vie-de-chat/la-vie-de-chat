@@ -3,11 +3,11 @@ My name is Lu Zhang. Welcome!  [LinkedIn](https://www.linkedin.com/in/zhang547/)
 
 <!-- Github Statistics
 <a href="github.com/la-vie-de-chat">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=la-vie-de-chat&theme=great-gatsby&showicons=true)](https://github.com/la-vie-de-chat/github-readme-stats" alt="Cathy's Top Langs" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=la-vie-de-chat&showicons=true)](https://github.com/la-vie-de-chat/github-readme-stats" alt="Cathy's Top Langs" />
 </a> -->
 
 <a href="github.com/la-vie-de-chat">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-vie-de-chat&theme=great-gatsby&showicons=true)](https://github.com/la-vie-de-chat/github-readme-stats" alt="Cathy's Top Langs" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-vie-de-chat&showicons=true)](https://github.com/la-vie-de-chat/github-readme-stats" alt="Cathy's Top Langs" />
 </a>
 
 
