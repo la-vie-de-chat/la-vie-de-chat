@@ -1,9 +1,10 @@
 #### Hello 🤗
-My name is Lu Zhang. Welcome!
+My name is Lu Zhang. Welcome!  [LinkedIn](https://www.linkedin.com/in/zhang547/)
 
+<!-- Github Statistics
 <a href="github.com/la-vie-de-chat">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=la-vie-de-chat&theme=great-gatsby&showicons=true)](https://github.com/la-vie-de-chat/github-readme-stats" alt="Cathy's Top Langs" />
-</a>
+</a> -->
 
 <a href="github.com/la-vie-de-chat">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-vie-de-chat&theme=great-gatsby&showicons=true)](https://github.com/la-vie-de-chat/github-readme-stats" alt="Cathy's Top Langs" />
@@ -14,17 +15,14 @@ My name is Lu Zhang. Welcome!
 <br/>
 <br/>
 
-**About me:**
+**About Me:**
 
-* 🌱 Grew up in China, earned my Bachelor Degree at Indiana University of Bloomington
-* 🎓 Recent Graduate from University of Pennsylvania | System Engineering | Class of 2022
-* 🔭 Ex-Amazon Intern ✨  ✨ <br />
-* 📚 Course Work: Database, Programming Language, Data Structure, Big Data Analytics
-
-
-Previous Blog<a target="_blank" href="https://cuijingnansimona.medium.com/how-hiv-population-distribution-and-gender-differences-affect-our-lives-14cadcae61c5">→</a> <br />
-LinkedIn Page<a href="https://www.linkedin.com/in/zhang547/">→</a>.
-
+* 🌱 Grew up in China
+* 🎓 Bachelor Degree at Indiana University of Bloomington | Class of 2020
+* 🎓 Recent Graduate of University of Pennsylvania | Class of 2022
+* 🔭 SDE Intern @ Amazon ✨  ✨ <br />
+* 🏆 Hackathon - ImageFinder, Extrodinary Participant
+* 📚 Course Work: Data Structure & Algorithms, Computer System, Database Management, Programming Language
 
 **Languages & Tools:**
 
